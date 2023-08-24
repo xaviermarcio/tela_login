@@ -32,7 +32,8 @@ body{
 
 .login:hover{
     width: 400px;
-    transform: rotate(360deg);
+    transform: rotate(5deg);
+   
 }
 
 .login form{
